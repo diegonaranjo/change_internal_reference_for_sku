@@ -16,6 +16,17 @@ By default, this module changes "Internal Reference" to "SKU", but you can modif
 
 In the XML files, change the "string" attribute from "SKU" to any text you want.
 
+## Installation & Upgrade
+1️⃣ Copy the module to your Odoo addons directory.
+2️⃣ Restart Odoo and upgrade the module list.
+3️⃣ Install the module from the Apps menu.
+
+## Upcoming Features
+🔹 Option to toggle SKU visibility in the settings and personalize the text name.
+
+📢 For suggestions or improvements, feel free to contribute! 🚀
+
+
 Support & Issues 🆘
 
 * 🐛 Report issues via GitHub Issues
