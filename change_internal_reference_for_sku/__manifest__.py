@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Change internal reference for sku',
-    'version': '0.1',
+    'version': '18.0.1.0',
     'category': 'Sales',
     'summary': 'This module customizes Odoo product views to replace the Internal Reference field label with SKU',
     'description': """
